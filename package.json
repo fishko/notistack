@@ -84,5 +84,11 @@
         "hossein",
         "dehnokhalaji",
         "iamhosseindhv"
+    ],
+    "files": [
+        "LICENSE.md",
+        "README.md",
+        "CHANGELOG.md",
+        "dist"
     ]
 }
